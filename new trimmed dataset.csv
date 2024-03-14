@@ -1,0 +1,2939 @@
+Continent,Year,Life expectancy 
+Asia,2015,65
+Asia,2014,59.9
+Asia,2013,59.9
+Asia,2012,59.5
+Asia,2011,59.2
+Asia,2010,58.8
+Asia,2009,58.6
+Asia,2008,58.1
+Asia,2007,57.5
+Asia,2006,57.3
+Asia,2005,57.3
+Asia,2004,57
+Asia,2003,56.7
+Asia,2002,56.2
+Asia,2001,55.3
+Asia,2000,54.8
+Europe,2015,77.8
+Europe,2014,77.5
+Europe,2013,77.2
+Europe,2012,76.9
+Europe,2011,76.6
+Europe,2010,76.2
+Europe,2009,76.1
+Europe,2008,75.3
+Europe,2007,75.9
+Europe,2006,74.2
+Europe,2005,73.5
+Europe,2004,73
+Europe,2003,72.8
+Europe,2002,73.3
+Europe,2001,73.6
+Europe,2000,72.6
+Africa,2015,75.6
+Africa,2014,75.4
+Africa,2013,75.3
+Africa,2012,75.1
+Africa,2011,74.9
+Africa,2010,74.7
+Africa,2009,74.4
+Africa,2008,74.1
+Africa,2007,73.8
+Africa,2006,73.4
+Africa,2005,72.9
+Africa,2004,72.3
+Africa,2003,71.7
+Africa,2002,71.6
+Africa,2001,71.4
+Africa,2000,71.3
+Africa,2015,52.4
+Africa,2014,51.7
+Africa,2013,51.1
+Africa,2012,56
+Africa,2011,51
+Africa,2010,49.6
+Africa,2009,49.1
+Africa,2008,48.7
+Africa,2007,48.2
+Africa,2006,47.7
+Africa,2005,47.4
+Africa,2004,47.1
+Africa,2003,46.8
+Africa,2002,46.5
+Africa,2001,45.7
+Africa,2000,45.3
+North America,2015,76.4
+North America,2014,76.2
+North America,2013,76.1
+North America,2012,75.9
+North America,2011,75.7
+North America,2010,75.6
+North America,2009,75.4
+North America,2008,75.2
+North America,2007,75
+North America,2006,74.8
+North America,2005,74.6
+North America,2004,74.4
+North America,2003,74.2
+North America,2002,74
+North America,2001,73.8
+North America,2000,73.6
+South America,2015,76.3
+South America,2014,76.2
+South America,2013,76
+South America,2012,75.9
+South America,2011,75.7
+South America,2010,75.5
+South America,2009,75.6
+South America,2008,75.4
+South America,2007,74.8
+South America,2006,75.2
+South America,2005,74.9
+South America,2004,74.7
+South America,2003,74.1
+South America,2002,74.1
+South America,2001,74
+South America,2000,74.1
+Asia,2015,74.8
+Asia,2014,74.6
+Asia,2013,74.4
+Asia,2012,74.4
+Asia,2011,73.9
+Asia,2010,73.5
+Asia,2009,73.3
+Asia,2008,73.2
+Asia,2007,73.5
+Asia,2006,72.9
+Asia,2005,73
+Asia,2004,73
+Asia,2003,72.7
+Asia,2002,72.6
+Asia,2001,72.6
+Asia,2000,72
+Oceania,2015,82.8
+Oceania,2014,82.7
+Oceania,2013,82.5
+Oceania,2012,82.3
+Oceania,2011,82
+Oceania,2010,81.9
+Oceania,2009,81.7
+Oceania,2008,81.3
+Oceania,2007,81.3
+Oceania,2006,81.2
+Oceania,2005,81
+Oceania,2004,86
+Oceania,2003,83
+Oceania,2002,79.9
+Oceania,2001,79.9
+Oceania,2000,79.5
+Europe,2015,81.5
+Europe,2014,81.4
+Europe,2013,81.1
+Europe,2012,88
+Europe,2011,88
+Europe,2010,84
+Europe,2009,82
+Europe,2008,84
+Europe,2007,81
+Europe,2006,79.8
+Europe,2005,79.4
+Europe,2004,79.3
+Europe,2003,78.8
+Europe,2002,78.7
+Europe,2001,78.6
+Europe,2000,78.1
+Europe / Asia,2015,72.7
+Europe / Asia,2014,72.5
+Europe / Asia,2013,72.2
+Europe / Asia,2012,71.9
+Europe / Asia,2011,71.6
+Europe / Asia,2010,71.1
+Europe / Asia,2009,78
+Europe / Asia,2008,73
+Europe / Asia,2007,73
+Europe / Asia,2006,69.2
+Europe / Asia,2005,68.4
+Europe / Asia,2004,68.4
+Europe / Asia,2003,67.8
+Europe / Asia,2002,67.8
+Europe / Asia,2001,67.5
+Europe / Asia,2000,66.6
+North America,2015,76.1
+North America,2014,75.4
+North America,2013,74.8
+North America,2012,74.9
+North America,2011,75
+North America,2010,75
+North America,2009,74.6
+North America,2008,74.5
+North America,2007,74.4
+North America,2006,74.2
+North America,2005,74.1
+North America,2004,73.8
+North America,2003,73.2
+North America,2002,73.1
+North America,2001,72.9
+North America,2000,72.6
+Asia,2015,76.9
+Asia,2014,76.8
+Asia,2013,76.7
+Asia,2012,76.5
+Asia,2011,76.1
+Asia,2010,76.1
+Asia,2009,76
+Asia,2008,75.8
+Asia,2007,75.6
+Asia,2006,75.5
+Asia,2005,75.3
+Asia,2004,75.2
+Asia,2003,75
+Asia,2002,74.9
+Asia,2001,74.7
+Asia,2000,74.5
+Asia,2015,71.8
+Asia,2014,71.4
+Asia,2013,71
+Asia,2012,77
+Asia,2011,73
+Asia,2010,69.9
+Asia,2009,69.5
+Asia,2008,69.1
+Asia,2007,68.6
+Asia,2006,68.2
+Asia,2005,67.8
+Asia,2004,67.3
+Asia,2003,66.8
+Asia,2002,66.3
+Asia,2001,65.8
+Asia,2000,65.3
+North America,2015,75.5
+North America,2014,75.4
+North America,2013,75.2
+North America,2012,75.1
+North America,2011,74.9
+North America,2010,74.7
+North America,2009,74.6
+North America,2008,74.4
+North America,2007,74.2
+North America,2006,74.1
+North America,2005,73.9
+North America,2004,73.8
+North America,2003,73.7
+North America,2002,73.5
+North America,2001,73.4
+North America,2000,73.3
+Europe,2015,72.3
+Europe,2014,72
+Europe,2013,71.7
+Europe,2012,71.9
+Europe,2011,72
+Europe,2010,73
+Europe,2009,70
+Europe,2008,70
+Europe,2007,69.8
+Europe,2006,68.9
+Europe,2005,68.1
+Europe,2004,68.2
+Europe,2003,67.7
+Europe,2002,67.2
+Europe,2001,67.7
+Europe,2000,68
+Europe,2015,81.1
+Europe,2014,89
+Europe,2013,87
+Europe,2012,83
+Europe,2011,83
+Europe,2010,80
+Europe,2009,79.8
+Europe,2008,79.5
+Europe,2007,79.5
+Europe,2006,79.4
+Europe,2005,78.9
+Europe,2004,78.8
+Europe,2003,78.3
+Europe,2002,78
+Europe,2001,78
+Europe,2000,77.6
+North America,2015,71
+North America,2014,70
+North America,2013,69.8
+North America,2012,69.4
+North America,2011,69.4
+North America,2010,69.5
+North America,2009,69.5
+North America,2008,69.6
+North America,2007,69.6
+North America,2006,69.4
+North America,2005,69
+North America,2004,68.7
+North America,2003,68.4
+North America,2002,68.5
+North America,2001,68.2
+North America,2000,68.3
+Africa,2015,60
+Africa,2014,59.7
+Africa,2013,59.5
+Africa,2012,59.3
+Africa,2011,59.1
+Africa,2010,58.7
+Africa,2009,58.4
+Africa,2008,57.6
+Africa,2007,57.1
+Africa,2006,56.8
+Africa,2005,56.5
+Africa,2004,56.1
+Africa,2003,55.8
+Africa,2002,55.6
+Africa,2001,55.5
+Africa,2000,55.4
+Asia,2015,69.8
+Asia,2014,69.4
+Asia,2013,69.1
+Asia,2012,68.7
+Asia,2011,68.3
+Asia,2010,67.9
+Asia,2009,67.4
+Asia,2008,67
+Asia,2007,66.5
+Asia,2006,65.8
+Asia,2005,65
+Asia,2004,64.2
+Asia,2003,63.3
+Asia,2002,62.5
+Asia,2001,61.7
+Asia,2000,62
+South America,2015,77
+South America,2014,74
+South America,2013,71
+South America,2012,69.8
+South America,2011,69.3
+South America,2010,68.7
+South America,2009,68
+South America,2008,67.4
+South America,2007,66.8
+South America,2006,66.2
+South America,2005,65.7
+South America,2004,65.1
+South America,2003,64.5
+South America,2002,63.9
+South America,2001,63.3
+South America,2000,62.6
+Europe,2015,77.4
+Europe,2014,77.2
+Europe,2013,77
+Europe,2012,76.8
+Europe,2011,76.9
+Europe,2010,76.4
+Europe,2009,76.1
+Europe,2008,76
+Europe,2007,75.4
+Europe,2006,75.7
+Europe,2005,75
+Europe,2004,75.5
+Europe,2003,75.2
+Europe,2002,75.4
+Europe,2001,74.9
+Europe,2000,74.6
+Africa,2015,65.7
+Africa,2014,65.1
+Africa,2013,64.2
+Africa,2012,63.4
+Africa,2011,62.2
+Africa,2010,61.1
+Africa,2009,59.2
+Africa,2008,57.5
+Africa,2007,56.9
+Africa,2006,54.8
+Africa,2005,51.7
+Africa,2004,48.1
+Africa,2003,46.4
+Africa,2002,46
+Africa,2001,46.7
+Africa,2000,47.8
+South America,2015,75
+South America,2014,74.8
+South America,2013,74.7
+South America,2012,74.5
+South America,2011,74.1
+South America,2010,73.8
+South America,2009,73.6
+South America,2008,73.4
+South America,2007,73.3
+South America,2006,73
+South America,2005,72.7
+South America,2004,72
+South America,2003,71.8
+South America,2002,71.4
+South America,2001,71
+South America,2000,75
+Asia,2015,77.7
+Asia,2014,77.6
+Asia,2013,77.1
+Asia,2012,78.3
+Asia,2011,77.4
+Asia,2010,76.9
+Asia,2009,76.8
+Asia,2008,77.2
+Asia,2007,76
+Asia,2006,76.3
+Asia,2005,76.2
+Asia,2004,76.4
+Asia,2003,76
+Asia,2002,74.8
+Asia,2001,74.7
+Asia,2000,74.4
+Europe,2015,74.5
+Europe,2014,74.3
+Europe,2013,74.1
+Europe,2012,73.9
+Europe,2011,73.7
+Europe,2010,73.4
+Europe,2009,73.2
+Europe,2008,72.9
+Europe,2007,72.6
+Europe,2006,72.2
+Europe,2005,72.1
+Europe,2004,72.2
+Europe,2003,72
+Europe,2002,71.8
+Europe,2001,71.6
+Europe,2000,71.1
+Africa,2015,59.9
+Africa,2014,59.3
+Africa,2013,59
+Africa,2012,58.6
+Africa,2011,58.1
+Africa,2010,57.5
+Africa,2009,56.9
+Africa,2008,56.1
+Africa,2007,55.3
+Africa,2006,54.3
+Africa,2005,53.3
+Africa,2004,52.4
+Africa,2003,51.6
+Africa,2002,51
+Africa,2001,56
+Africa,2000,51
+Africa,2015,59.6
+Africa,2014,59.1
+Africa,2013,58.6
+Africa,2012,58
+Africa,2011,57.4
+Africa,2010,56.8
+Africa,2009,56.2
+Africa,2008,55.3
+Africa,2007,54.8
+Africa,2006,54.1
+Africa,2005,53.4
+Africa,2004,52.6
+Africa,2003,51.9
+Africa,2002,51.5
+Africa,2001,51.3
+Africa,2000,58
+Africa,2015,53.3
+Africa,2014,52.8
+Africa,2013,52.3
+Africa,2012,52
+Africa,2011,51.7
+Africa,2010,51.5
+Africa,2009,51
+Africa,2008,54
+Africa,2007,49.9
+Africa,2006,49.4
+Africa,2005,48.7
+Africa,2004,48.2
+Africa,2003,48
+Africa,2002,47.7
+Africa,2001,47.8
+Africa,2000,47.9
+Africa,2015,73.3
+Africa,2014,73
+Africa,2013,72.8
+Africa,2012,72.7
+Africa,2011,72.6
+Africa,2010,72.5
+Africa,2009,72.4
+Africa,2008,72.4
+Africa,2007,72.3
+Africa,2006,72.1
+Africa,2005,71.8
+Africa,2004,71.4
+Africa,2003,71.1
+Africa,2002,77
+Africa,2001,73
+Africa,2000,69.9
+Asia,2015,68.7
+Asia,2014,68.3
+Asia,2013,67.8
+Asia,2012,67.4
+Asia,2011,67
+Asia,2010,66.6
+Asia,2009,66.1
+Asia,2008,65.6
+Asia,2007,65
+Asia,2006,64.1
+Asia,2005,62.9
+Asia,2004,61.5
+Asia,2003,63
+Asia,2002,59.3
+Asia,2001,58.5
+Asia,2000,57.7
+Africa,2015,57.3
+Africa,2014,56.7
+Africa,2013,56.4
+Africa,2012,55.9
+Africa,2011,55.6
+Africa,2010,55.3
+Africa,2009,54.8
+Africa,2008,54.2
+Africa,2007,53.6
+Africa,2006,53.3
+Africa,2005,52.8
+Africa,2004,52.1
+Africa,2003,51.8
+Africa,2002,51.6
+Africa,2001,51.5
+Africa,2000,51.4
+North America,2015,82.2
+North America,2014,82
+North America,2013,81.8
+North America,2012,81.6
+North America,2011,81.5
+North America,2010,81.2
+North America,2009,81
+North America,2008,87
+North America,2007,85
+North America,2006,85
+North America,2005,81
+North America,2004,80
+North America,2003,79.7
+North America,2002,79.5
+North America,2001,79.4
+North America,2000,79.1
+Africa,2015,52.5
+Africa,2014,58
+Africa,2013,49.9
+Africa,2012,53
+Africa,2011,49.8
+Africa,2010,49.2
+Africa,2009,48.6
+Africa,2008,47.6
+Africa,2007,46.8
+Africa,2006,46.3
+Africa,2005,45.9
+Africa,2004,45.7
+Africa,2003,45.7
+Africa,2002,45.6
+Africa,2001,45.6
+Africa,2000,46
+Africa,2015,53.1
+Africa,2014,52.6
+Africa,2013,52.2
+Africa,2012,51.8
+Africa,2011,51.6
+Africa,2010,51.2
+Africa,2009,57
+Africa,2008,49.6
+Africa,2007,49.4
+Africa,2006,48.5
+Africa,2005,48.6
+Africa,2004,48.5
+Africa,2003,48.4
+Africa,2002,48.1
+Africa,2001,48
+Africa,2000,47.6
+South America,2015,85
+South America,2014,83
+South America,2013,81
+South America,2012,79.9
+South America,2011,79.8
+South America,2010,79.1
+South America,2009,79.3
+South America,2008,79.6
+South America,2007,78.9
+South America,2006,78.9
+South America,2005,78.4
+South America,2004,78
+South America,2003,77.9
+South America,2002,77.8
+South America,2001,77.3
+South America,2000,77.3
+Asia,2015,76.1
+Asia,2014,75.8
+Asia,2013,75.6
+Asia,2012,75.4
+Asia,2011,75.2
+Asia,2010,75
+Asia,2009,74.9
+Asia,2008,74.5
+Asia,2007,74.4
+Asia,2006,74.2
+Asia,2005,73.9
+Asia,2004,73.5
+Asia,2003,73.1
+Asia,2002,72.7
+Asia,2001,72.2
+Asia,2000,71.7
+South America,2015,74.8
+South America,2014,74.6
+South America,2013,74.4
+South America,2012,74.3
+South America,2011,74.2
+South America,2010,73.6
+South America,2009,73.6
+South America,2008,73.5
+South America,2007,73.5
+South America,2006,73.1
+South America,2005,73.1
+South America,2004,72.8
+South America,2003,72.4
+South America,2002,71.8
+South America,2001,71.5
+South America,2000,71.4
+Africa,2015,63.5
+Africa,2014,63.2
+Africa,2013,62.9
+Africa,2012,62.5
+Africa,2011,62.2
+Africa,2010,61.8
+Africa,2009,61.3
+Africa,2008,61
+Africa,2007,66
+Africa,2006,63
+Africa,2005,60
+Africa,2004,59.8
+Africa,2003,59.6
+Africa,2002,59.5
+Africa,2001,59.5
+Africa,2000,59.5
+Africa,2015,64.7
+Africa,2014,64.2
+Africa,2013,63.9
+Africa,2012,63.7
+Africa,2011,62.9
+Africa,2010,62
+Africa,2009,68
+Africa,2008,59.4
+Africa,2007,58.2
+Africa,2006,56.9
+Africa,2005,55.3
+Africa,2004,54.1
+Africa,2003,53.2
+Africa,2002,52.6
+Africa,2001,52.7
+Africa,2000,52.9
+Oceania,2013,
+North America,2015,79.6
+North America,2014,79.5
+North America,2013,79.4
+North America,2012,79.2
+North America,2011,79
+North America,2010,78.1
+North America,2009,79.2
+North America,2008,78.9
+North America,2007,78.9
+North America,2006,78
+North America,2005,78.6
+North America,2004,77.7
+North America,2003,78
+North America,2002,78.3
+North America,2001,77.5
+North America,2000,77.6
+Europe,2015,78
+Europe,2014,77.8
+Europe,2013,77.7
+Europe,2012,77.1
+Europe,2011,77
+Europe,2010,76.6
+Europe,2009,76.3
+Europe,2008,76
+Europe,2007,75.8
+Europe,2006,75.9
+Europe,2005,75.2
+Europe,2004,75.4
+Europe,2003,74.7
+Europe,2002,74.8
+Europe,2001,74.9
+Europe,2000,74.7
+North America,2015,79.1
+North America,2014,79
+North America,2013,78.7
+North America,2012,78.7
+North America,2011,78.8
+North America,2010,78
+North America,2009,78.1
+North America,2008,77.9
+North America,2007,78.1
+North America,2006,78
+North America,2005,77.2
+North America,2004,77.3
+North America,2003,77.4
+North America,2002,77.7
+North America,2001,76.7
+North America,2000,76.9
+Europe,2015,85
+Europe,2014,83
+Europe,2013,81
+Europe,2012,80
+Europe,2011,79.7
+Europe,2010,79.5
+Europe,2009,79.3
+Europe,2008,79.1
+Europe,2007,78.9
+Europe,2006,78.8
+Europe,2005,78.7
+Europe,2004,78.6
+Europe,2003,78.5
+Europe,2002,78.4
+Europe,2001,78.2
+Europe,2000,78.1
+Europe,2015,78.8
+Europe,2014,78.6
+Europe,2013,78.2
+Europe,2012,78
+Europe,2011,77.8
+Europe,2010,77.5
+Europe,2009,77.1
+Europe,2008,77
+Europe,2007,76.8
+Europe,2006,76.5
+Europe,2005,75.9
+Europe,2004,75.8
+Europe,2003,75.2
+Europe,2002,75.3
+Europe,2001,75.1
+Europe,2000,74.7
+Asia,2015,76
+Asia,2014,73
+Asia,2013,71
+Asia,2012,69.8
+Asia,2011,69.4
+Asia,2010,69
+Asia,2009,68.7
+Asia,2008,68.6
+Asia,2007,68.5
+Asia,2006,68.5
+Asia,2005,68.5
+Asia,2004,68.4
+Asia,2003,68.1
+Asia,2002,67.6
+Asia,2001,66.6
+Asia,2000,65.4
+Asia,2015,59.8
+Asia,2014,59.3
+Asia,2013,58.8
+Asia,2012,58.3
+Asia,2011,57.9
+Asia,2010,57.4
+Asia,2009,56.7
+Asia,2008,56.3
+Asia,2007,55.7
+Asia,2006,55
+Asia,2005,54.3
+Asia,2004,53.5
+Asia,2003,52.8
+Asia,2002,52.1
+Asia,2001,51.8
+Asia,2000,51.3
+Europe,2015,86
+Europe,2014,84
+Europe,2013,81
+Europe,2012,80
+Europe,2011,79.7
+Europe,2010,79.2
+Europe,2009,78.9
+Europe,2008,78.8
+Europe,2007,78.4
+Europe,2006,78.1
+Europe,2005,78.1
+Europe,2004,77.7
+Europe,2003,77.3
+Europe,2002,77
+Europe,2001,77
+Europe,2000,76.9
+Africa,2015,63.5
+Africa,2014,63
+Africa,2013,62.7
+Africa,2012,62.2
+Africa,2011,61.8
+Africa,2010,61.3
+Africa,2009,69
+Africa,2008,62
+Africa,2007,59.8
+Africa,2006,59.1
+Africa,2005,58.6
+Africa,2004,58.1
+Africa,2003,58
+Africa,2002,57.9
+Africa,2001,57.7
+Africa,2000,57.4
+North America,2013,
+North America,2015,73.9
+North America,2014,73.6
+North America,2013,73.4
+North America,2012,72.1
+North America,2011,73.1
+North America,2010,72.7
+North America,2009,73.6
+North America,2008,73.3
+North America,2007,72.9
+North America,2006,72.3
+North America,2005,69.7
+North America,2004,69.3
+North America,2003,73
+North America,2002,71.4
+North America,2001,71.2
+North America,2000,72
+South America,2015,76.2
+South America,2014,76
+South America,2013,76
+South America,2012,75.5
+South America,2011,75.3
+South America,2010,75
+South America,2009,75.1
+South America,2008,74.6
+South America,2007,74.7
+South America,2006,74.4
+South America,2005,74.2
+South America,2004,74.4
+South America,2003,74.4
+South America,2002,73.6
+South America,2001,73.4
+South America,2000,72.8
+Africa,2015,79
+Africa,2014,78
+Africa,2013,79
+Africa,2012,72
+Africa,2011,74
+Africa,2010,70
+Africa,2009,69.9
+Africa,2008,69.8
+Africa,2007,69.7
+Africa,2006,69.5
+Africa,2005,69.4
+Africa,2004,69
+Africa,2003,68.6
+Africa,2002,68.7
+Africa,2001,68.6
+Africa,2000,68.8
+North America,2015,73.5
+North America,2014,73.3
+North America,2013,73
+North America,2012,73
+North America,2011,72
+North America,2010,72
+North America,2009,71.4
+North America,2008,71.7
+North America,2007,71.2
+North America,2006,75
+North America,2005,71
+North America,2004,70
+North America,2003,69.9
+North America,2002,73
+North America,2001,68.9
+North America,2000,69
+Africa,2015,58.2
+Africa,2014,57.9
+Africa,2013,57.4
+Africa,2012,56.7
+Africa,2011,56.2
+Africa,2010,56.1
+Africa,2009,55.7
+Africa,2008,55.4
+Africa,2007,55
+Africa,2006,54.8
+Africa,2005,54.4
+Africa,2004,54.1
+Africa,2003,53.8
+Africa,2002,53.5
+Africa,2001,53.1
+Africa,2000,52.7
+Africa,2015,64.7
+Africa,2014,64.4
+Africa,2013,64
+Africa,2012,63.6
+Africa,2011,62.9
+Africa,2010,62.1
+Africa,2009,61.4
+Africa,2008,67
+Africa,2007,62
+Africa,2006,59.7
+Africa,2005,59.4
+Africa,2004,59.1
+Africa,2003,58.8
+Africa,2002,58.5
+Africa,2001,58.1
+Africa,2000,45.3
+Europe,2015,77.6
+Europe,2014,77.3
+Europe,2013,76.9
+Europe,2012,76.3
+Europe,2011,76.1
+Europe,2010,75.6
+Europe,2009,74.9
+Europe,2008,74.2
+Europe,2007,73
+Europe,2006,73
+Europe,2005,72.8
+Europe,2004,72.3
+Europe,2003,71.9
+Europe,2002,71.2
+Europe,2001,78
+Europe,2000,78
+Africa,2015,64.8
+Africa,2014,64.2
+Africa,2013,63.7
+Africa,2012,63.3
+Africa,2011,62.6
+Africa,2010,61.8
+Africa,2009,68
+Africa,2008,59.8
+Africa,2007,58.5
+Africa,2006,57.2
+Africa,2005,56
+Africa,2004,55
+Africa,2003,54
+Africa,2002,53.2
+Africa,2001,52.5
+Africa,2000,51.2
+Oceania,2015,69.9
+Oceania,2014,69.7
+Oceania,2013,69.6
+Oceania,2012,69.4
+Oceania,2011,69.2
+Oceania,2010,69.1
+Oceania,2009,68.9
+Oceania,2008,68.7
+Oceania,2007,68.6
+Oceania,2006,68.5
+Oceania,2005,68.3
+Oceania,2004,68.1
+Oceania,2003,68
+Oceania,2002,67.9
+Oceania,2001,67.8
+Oceania,2000,67.7
+Europe,2015,81.1
+Europe,2014,89
+Europe,2013,87
+Europe,2012,84
+Europe,2011,83
+Europe,2010,79.9
+Europe,2009,79.7
+Europe,2008,79.6
+Europe,2007,79.3
+Europe,2006,79.2
+Europe,2005,78.9
+Europe,2004,78.7
+Europe,2003,78.4
+Europe,2002,78.1
+Europe,2001,78
+Europe,2000,77.5
+Europe,2015,82.4
+Europe,2014,82.2
+Europe,2013,82
+Europe,2012,81.5
+Europe,2011,81.7
+Europe,2010,81.3
+Europe,2009,81.1
+Europe,2008,89
+Europe,2007,89
+Europe,2006,86
+Europe,2005,81
+Europe,2004,82
+Europe,2003,79.3
+Europe,2002,79.2
+Europe,2001,79
+Europe,2000,78.8
+Africa,2015,66
+Africa,2014,65.5
+Africa,2013,64.6
+Africa,2012,63.5
+Africa,2011,62.8
+Africa,2010,62.3
+Africa,2009,61.7
+Africa,2008,61.6
+Africa,2007,61.6
+Africa,2006,61.4
+Africa,2005,65
+Africa,2004,59.7
+Africa,2003,59.7
+Africa,2002,59.7
+Africa,2001,59.8
+Africa,2000,61
+Africa,2015,61.1
+Africa,2014,68
+Africa,2013,66
+Africa,2012,62
+Africa,2011,59.8
+Africa,2010,59.3
+Africa,2009,59
+Africa,2008,58.7
+Africa,2007,58.5
+Africa,2006,58.2
+Africa,2005,57.7
+Africa,2004,57.3
+Africa,2003,57
+Africa,2002,56.6
+Africa,2001,56.3
+Africa,2000,55.9
+Europe / Asia,2015,74.4
+Europe / Asia,2014,74.5
+Europe / Asia,2013,74.5
+Europe / Asia,2012,74.2
+Europe / Asia,2011,73.9
+Europe / Asia,2010,73.8
+Europe / Asia,2009,73.2
+Europe / Asia,2008,73.9
+Europe / Asia,2007,74.4
+Europe / Asia,2006,73.9
+Europe / Asia,2005,73.9
+Europe / Asia,2004,72.3
+Europe / Asia,2003,72.7
+Europe / Asia,2002,71.7
+Europe / Asia,2001,73
+Europe / Asia,2000,71.8
+Europe,2015,81
+Europe,2014,89
+Europe,2013,86
+Europe,2012,86
+Europe,2011,85
+Europe,2010,81
+Europe,2009,80
+Europe,2008,79.9
+Europe,2007,79.8
+Europe,2006,79.6
+Europe,2005,79.2
+Europe,2004,79.1
+Europe,2003,78.5
+Europe,2002,78.4
+Europe,2001,78.3
+Europe,2000,78
+Africa,2015,62.4
+Africa,2014,62.1
+Africa,2013,61.9
+Africa,2012,61.6
+Africa,2011,61.2
+Africa,2010,69
+Africa,2009,66
+Africa,2008,63
+Africa,2007,59.9
+Africa,2006,59.4
+Africa,2005,58.9
+Africa,2004,58.3
+Africa,2003,57.9
+Africa,2002,57.6
+Africa,2001,57.4
+Africa,2000,57.2
+Europe,2015,81
+Europe,2014,88
+Europe,2013,86
+Europe,2012,84
+Europe,2011,85
+Europe,2010,83
+Europe,2009,80
+Europe,2008,79.9
+Europe,2007,79.4
+Europe,2006,79.7
+Europe,2005,79.3
+Europe,2004,79.2
+Europe,2003,79.1
+Europe,2002,79
+Europe,2001,78.7
+Europe,2000,78.2
+North America,2015,73.6
+North America,2014,73.5
+North America,2013,73.3
+North America,2012,73.1
+North America,2011,72.9
+North America,2010,72.6
+North America,2009,72.4
+North America,2008,72.1
+North America,2007,71.9
+North America,2006,71.7
+North America,2005,71.5
+North America,2004,73
+North America,2003,71.1
+North America,2002,79
+North America,2001,77
+North America,2000,74
+North America,2015,71.9
+North America,2014,71.7
+North America,2013,71.4
+North America,2012,71.3
+North America,2011,71.1
+North America,2010,77
+North America,2009,76
+North America,2008,79
+North America,2007,75
+North America,2006,69.7
+North America,2005,69.2
+North America,2004,69.6
+North America,2003,69.4
+North America,2002,69.3
+North America,2001,68.4
+North America,2000,67.7
+Africa,2015,59
+Africa,2014,58.1
+Africa,2013,58.8
+Africa,2012,58.4
+Africa,2011,58.1
+Africa,2010,57.8
+Africa,2009,57.3
+Africa,2008,56.8
+Africa,2007,56.4
+Africa,2006,55.6
+Africa,2005,54.7
+Africa,2004,54
+Africa,2003,53.3
+Africa,2002,52.9
+Africa,2001,52.5
+Africa,2000,52.5
+Africa,2015,58.9
+Africa,2014,58.4
+Africa,2013,58.1
+Africa,2012,57.6
+Africa,2011,57.1
+Africa,2010,56.7
+Africa,2009,56.3
+Africa,2008,55.6
+Africa,2007,55
+Africa,2006,54.4
+Africa,2005,53.9
+Africa,2004,53.5
+Africa,2003,53
+Africa,2002,52.8
+Africa,2001,52.5
+Africa,2000,52.1
+South America,2015,66.2
+South America,2014,66
+South America,2013,65.9
+South America,2012,65.8
+South America,2011,65.6
+South America,2010,65.9
+South America,2009,66.1
+South America,2008,66.3
+South America,2007,65.7
+South America,2006,65.2
+South America,2005,65
+South America,2004,65.1
+South America,2003,65.3
+South America,2002,65.3
+South America,2001,65.4
+South America,2000,65.4
+North America,2015,63.5
+North America,2014,63.1
+North America,2013,62.7
+North America,2012,62.3
+North America,2011,62.3
+North America,2010,36.3
+North America,2009,62.5
+North America,2008,62.1
+North America,2007,61.8
+North America,2006,61.1
+North America,2005,65
+North America,2004,58.7
+North America,2003,59.7
+North America,2002,59.3
+North America,2001,58.9
+North America,2000,58.6
+North America,2015,74.6
+North America,2014,74.5
+North America,2013,74.3
+North America,2012,74.1
+North America,2011,73.9
+North America,2010,73.6
+North America,2009,73.4
+North America,2008,73.2
+North America,2007,73
+North America,2006,72.8
+North America,2005,72.5
+North America,2004,72.2
+North America,2003,71.9
+North America,2002,71.6
+North America,2001,71.3
+North America,2000,71
+Europe,2015,75.8
+Europe,2014,75.6
+Europe,2013,75.5
+Europe,2012,75
+Europe,2011,74.8
+Europe,2010,74.5
+Europe,2009,74.2
+Europe,2008,74.1
+Europe,2007,73.5
+Europe,2006,73.4
+Europe,2005,72.9
+Europe,2004,72.9
+Europe,2003,72.5
+Europe,2002,72.5
+Europe,2001,72.3
+Europe,2000,71.7
+Europe,2015,82.7
+Europe,2014,82.5
+Europe,2013,82.4
+Europe,2012,82.5
+Europe,2011,82.1
+Europe,2010,81.8
+Europe,2009,81.6
+Europe,2008,81.4
+Europe,2007,81.3
+Europe,2006,81.1
+Europe,2005,81
+Europe,2004,88
+Europe,2003,87
+Europe,2002,84
+Europe,2001,80
+Europe,2000,79.7
+Asia,2015,68.3
+Asia,2014,68
+Asia,2013,67.6
+Asia,2012,67.3
+Asia,2011,66.8
+Asia,2010,66.4
+Asia,2009,66
+Asia,2008,65.5
+Asia,2007,65.2
+Asia,2006,64.8
+Asia,2005,64.4
+Asia,2004,64
+Asia,2003,63.7
+Asia,2002,63.3
+Asia,2001,62.9
+Asia,2000,62.5
+Asia,2015,69.1
+Asia,2014,68.9
+Asia,2013,68.7
+Asia,2012,68.5
+Asia,2011,68.3
+Asia,2010,68.1
+Asia,2009,67.9
+Asia,2008,67.7
+Asia,2007,67.5
+Asia,2006,67.3
+Asia,2005,67.2
+Asia,2004,65.3
+Asia,2003,66.9
+Asia,2002,66.7
+Asia,2001,66.5
+Asia,2000,66.3
+Asia,2015,75.5
+Asia,2014,75.4
+Asia,2013,75.3
+Asia,2012,75.1
+Asia,2011,74.7
+Asia,2010,74.1
+Asia,2009,73.3
+Asia,2008,72.7
+Asia,2007,72.4
+Asia,2006,72.2
+Asia,2005,72
+Asia,2004,71.8
+Asia,2003,75
+Asia,2002,71.2
+Asia,2001,78
+Asia,2000,73
+Asia,2015,68.9
+Asia,2014,67.9
+Asia,2013,69.5
+Asia,2012,76
+Asia,2011,77
+Asia,2010,76
+Asia,2009,74
+Asia,2008,69.3
+Asia,2007,65.9
+Asia,2006,64.7
+Asia,2005,66.8
+Asia,2004,67.2
+Asia,2003,66.5
+Asia,2002,74
+Asia,2001,72
+Asia,2000,70
+Europe,2015,81.4
+Europe,2014,81.2
+Europe,2013,81
+Europe,2012,85
+Europe,2011,84
+Europe,2010,86
+Europe,2009,79.7
+Europe,2008,79.8
+Europe,2007,79.5
+Europe,2006,79
+Europe,2005,78.7
+Europe,2004,78.3
+Europe,2003,78
+Europe,2002,77.4
+Europe,2001,77
+Europe,2000,76.4
+Asia,2015,82.5
+Asia,2014,82.2
+Asia,2013,82.1
+Asia,2012,81.8
+Asia,2011,81.8
+Asia,2010,81.7
+Asia,2009,81.5
+Asia,2008,81
+Asia,2007,84
+Asia,2006,84
+Asia,2005,80
+Asia,2004,81
+Asia,2003,79.7
+Asia,2002,79.3
+Asia,2001,79.3
+Asia,2000,78.9
+Europe,2015,82.7
+Europe,2014,82.5
+Europe,2013,82.3
+Europe,2012,82
+Europe,2011,82
+Europe,2010,81.8
+Europe,2009,81.6
+Europe,2008,81.5
+Europe,2007,81.3
+Europe,2006,81.2
+Europe,2005,88
+Europe,2004,89
+Europe,2003,79.9
+Europe,2002,80
+Europe,2001,79.8
+Europe,2000,79.4
+North America,2015,76.2
+North America,2014,75.8
+North America,2013,75.6
+North America,2012,75.3
+North America,2011,75.2
+North America,2010,75
+North America,2009,74.7
+North America,2008,74.5
+North America,2007,74.2
+North America,2006,74
+North America,2005,73.5
+North America,2004,73.3
+North America,2003,73.1
+North America,2002,73
+North America,2001,72.7
+North America,2000,72.6
+Asia,2015,83.7
+Asia,2014,83.5
+Asia,2013,83.5
+Asia,2012,83.3
+Asia,2011,82.5
+Asia,2010,83
+Asia,2009,83
+Asia,2008,82.7
+Asia,2007,82.6
+Asia,2006,82.4
+Asia,2005,82
+Asia,2004,82.1
+Asia,2003,81.9
+Asia,2002,81.8
+Asia,2001,81.5
+Asia,2000,81.1
+Asia,2015,74.1
+Asia,2014,74
+Asia,2013,73.9
+Asia,2012,73.7
+Asia,2011,73.6
+Asia,2010,73.4
+Asia,2009,73.3
+Asia,2008,73.1
+Asia,2007,73
+Asia,2006,72.8
+Asia,2005,72.4
+Asia,2004,72.5
+Asia,2003,72.3
+Asia,2002,72.1
+Asia,2001,71.9
+Asia,2000,71.7
+Europe / Asia,2015,72
+Europe / Asia,2014,69.9
+Europe / Asia,2013,69.5
+Europe / Asia,2012,69.1
+Europe / Asia,2011,68.5
+Europe / Asia,2010,67.8
+Europe / Asia,2009,67.8
+Europe / Asia,2008,66.6
+Europe / Asia,2007,65.3
+Europe / Asia,2006,65
+Europe / Asia,2005,64.6
+Europe / Asia,2004,64.7
+Europe / Asia,2003,64.4
+Europe / Asia,2002,64.7
+Europe / Asia,2001,64.4
+Europe / Asia,2000,63.9
+Africa,2015,63.4
+Africa,2014,62.9
+Africa,2013,62.6
+Africa,2012,62.1
+Africa,2011,61.2
+Africa,2010,63
+Africa,2009,59.1
+Africa,2008,57.9
+Africa,2007,56.8
+Africa,2006,55.3
+Africa,2005,54.1
+Africa,2004,53
+Africa,2003,52.4
+Africa,2002,52.1
+Africa,2001,51.9
+Africa,2000,51.9
+Oceania,2015,66.3
+Oceania,2014,66.1
+Oceania,2013,65.8
+Oceania,2012,65.7
+Oceania,2011,65.5
+Oceania,2010,65.3
+Oceania,2009,65.2
+Oceania,2008,65.1
+Oceania,2007,65
+Oceania,2006,65
+Oceania,2005,64.9
+Oceania,2004,64.8
+Oceania,2003,64.7
+Oceania,2002,64.6
+Oceania,2001,64.3
+Oceania,2000,64.1
+Asia,2015,74.7
+Asia,2014,74.6
+Asia,2013,74.5
+Asia,2012,74.3
+Asia,2011,74.2
+Asia,2010,74
+Asia,2009,73.9
+Asia,2008,73.8
+Asia,2007,73.7
+Asia,2006,73.6
+Asia,2005,73.6
+Asia,2004,73.5
+Asia,2003,73.4
+Asia,2002,73.3
+Asia,2001,73.2
+Asia,2000,73.2
+Asia,2015,71.1
+Asia,2014,78
+Asia,2013,77
+Asia,2012,69.9
+Asia,2011,69.4
+Asia,2010,68.8
+Asia,2009,68.5
+Asia,2008,67.6
+Asia,2007,67.2
+Asia,2006,66.7
+Asia,2005,66.9
+Asia,2004,67.1
+Asia,2003,66.6
+Asia,2002,66.7
+Asia,2001,67.2
+Asia,2000,66.6
+Asia,2015,65.7
+Asia,2014,65.3
+Asia,2013,64.9
+Asia,2012,64.4
+Asia,2011,64
+Asia,2010,63.6
+Asia,2009,63.1
+Asia,2008,62.6
+Asia,2007,62.1
+Asia,2006,61.5
+Asia,2005,61
+Asia,2004,64
+Asia,2003,59.8
+Asia,2002,59.3
+Asia,2001,58.7
+Asia,2000,58.1
+Europe,2015,74.6
+Europe,2014,74.4
+Europe,2013,74.1
+Europe,2012,73.8
+Europe,2011,73.6
+Europe,2010,72.8
+Europe,2009,72.6
+Europe,2008,71.9
+Europe,2007,78
+Europe,2006,75
+Europe,2005,76
+Europe,2004,71
+Europe,2003,78
+Europe,2002,73
+Europe,2001,69.9
+Europe,2000,71
+Asia,2015,74.9
+Asia,2014,74.8
+Asia,2013,74.9
+Asia,2012,75
+Asia,2011,75
+Asia,2010,74.9
+Asia,2009,74.7
+Asia,2008,74.5
+Asia,2007,74.4
+Asia,2006,74.1
+Asia,2005,73.9
+Asia,2004,73.7
+Asia,2003,73.5
+Asia,2002,73.2
+Asia,2001,73
+Asia,2000,72.7
+Asia,2015,53.7
+Asia,2014,52.1
+Asia,2013,52.1
+Asia,2012,52.2
+Asia,2011,52.3
+Asia,2010,51.1
+Asia,2009,49.4
+Asia,2008,47.8
+Asia,2007,46.2
+Asia,2006,45.3
+Asia,2005,44.5
+Asia,2004,44.8
+Asia,2003,45.5
+Asia,2002,46.4
+Asia,2001,47.8
+Asia,2000,49.3
+Africa,2015,61.4
+Africa,2014,58.1
+Africa,2013,61.1
+Africa,2012,67
+Africa,2011,62
+Africa,2010,59.7
+Africa,2009,59.2
+Africa,2008,58.6
+Africa,2007,57.9
+Africa,2006,56.7
+Africa,2005,55.3
+Africa,2004,54
+Africa,2003,50
+Africa,2002,56
+Africa,2001,51.5
+Africa,2000,51.9
+Africa,2015,72.7
+Africa,2014,72.4
+Africa,2013,72.9
+Africa,2012,72.9
+Africa,2011,71.3
+Africa,2010,72.8
+Africa,2009,72.7
+Africa,2008,72.6
+Africa,2007,72.5
+Africa,2006,72.2
+Africa,2005,71.9
+Africa,2004,71.5
+Africa,2003,71.3
+Africa,2002,71.1
+Africa,2001,71
+Africa,2000,78
+Europe,2015,73.6
+Europe,2014,73.4
+Europe,2013,73
+Europe,2012,73
+Europe,2011,72.8
+Europe,2010,72.4
+Europe,2009,72.2
+Europe,2008,71.1
+Europe,2007,72
+Europe,2006,76
+Europe,2005,78
+Europe,2004,71.6
+Europe,2003,71.6
+Europe,2002,71.4
+Europe,2001,71.2
+Europe,2000,71.6
+Europe,2015,82
+Europe,2014,81.7
+Europe,2013,81.4
+Europe,2012,81.1
+Europe,2011,88
+Europe,2010,86
+Europe,2009,83
+Europe,2008,80
+Europe,2007,79.7
+Europe,2006,79.4
+Europe,2005,78.8
+Europe,2004,78.7
+Europe,2003,78.6
+Europe,2002,78.3
+Europe,2001,78
+Europe,2000,77.8
+Africa,2015,65.5
+Africa,2014,65.1
+Africa,2013,64.7
+Africa,2012,64.3
+Africa,2011,63.8
+Africa,2010,63.3
+Africa,2009,62.8
+Africa,2008,62.3
+Africa,2007,61.9
+Africa,2006,61.4
+Africa,2005,69
+Africa,2004,64
+Africa,2003,59.9
+Africa,2002,59.3
+Africa,2001,58.7
+Africa,2000,57.9
+Africa,2015,58.3
+Africa,2014,57.6
+Africa,2013,56.7
+Africa,2012,55.3
+Africa,2011,54.1
+Africa,2010,52.9
+Africa,2009,51.5
+Africa,2008,50
+Africa,2007,48.5
+Africa,2006,47.1
+Africa,2005,46
+Africa,2004,45.1
+Africa,2003,44.6
+Africa,2002,44
+Africa,2001,43.5
+Africa,2000,43.1
+Asia,2015,75
+Asia,2014,74.8
+Asia,2013,74.6
+Asia,2012,74.5
+Asia,2011,74.3
+Asia,2010,74.1
+Asia,2009,74
+Asia,2008,73.8
+Asia,2007,73.7
+Asia,2006,73.6
+Asia,2005,73.4
+Asia,2004,73.2
+Asia,2003,73.1
+Asia,2002,72.9
+Asia,2001,72.7
+Asia,2000,72.4
+Asia,2015,78.5
+Asia,2014,78.2
+Asia,2013,77.9
+Asia,2012,77.6
+Asia,2011,77.3
+Asia,2010,76.7
+Asia,2009,76.3
+Asia,2008,75.9
+Asia,2007,75.4
+Asia,2006,75
+Asia,2005,74.3
+Asia,2004,73.4
+Asia,2003,72.7
+Asia,2002,71.8
+Asia,2001,78
+Asia,2000,69.6
+Africa,2015,58.2
+Africa,2014,57.8
+Africa,2013,57.3
+Africa,2012,57.2
+Africa,2011,56.8
+Africa,2010,56.5
+Africa,2009,56
+Africa,2008,55.5
+Africa,2007,55
+Africa,2006,54.3
+Africa,2005,53.6
+Africa,2004,52.8
+Africa,2003,52
+Africa,2002,51.2
+Africa,2001,55
+Africa,2000,49.8
+Europe,2015,81.7
+Europe,2014,81.4
+Europe,2013,81.1
+Europe,2012,81
+Europe,2011,87
+Europe,2010,83
+Europe,2009,82
+Europe,2008,80
+Europe,2007,79.6
+Europe,2006,79.3
+Europe,2005,79
+Europe,2004,78.7
+Europe,2003,78.5
+Europe,2002,78.2
+Europe,2001,77.8
+Europe,2000,77.5
+Oceania,2013,
+Africa,2015,63.1
+Africa,2014,63
+Africa,2013,62.7
+Africa,2012,62.5
+Africa,2011,62.2
+Africa,2010,62
+Africa,2009,61.7
+Africa,2008,61.4
+Africa,2007,61.2
+Africa,2006,69
+Africa,2005,66
+Africa,2004,64
+Africa,2003,63
+Africa,2002,62
+Africa,2001,61
+Africa,2000,60
+Africa,2015,74.6
+Africa,2014,74.2
+Africa,2013,74.1
+Africa,2012,73.9
+Africa,2011,73.6
+Africa,2010,73.3
+Africa,2009,72.8
+Africa,2008,72.7
+Africa,2007,72.9
+Africa,2006,71.8
+Africa,2005,72.1
+Africa,2004,71.9
+Africa,2003,71.5
+Africa,2002,71.5
+Africa,2001,71.5
+Africa,2000,71
+North America,2015,76.7
+North America,2014,76.6
+North America,2013,76.6
+North America,2012,76.3
+North America,2011,76.1
+North America,2010,75.6
+North America,2009,75.7
+North America,2008,75.6
+North America,2007,76
+North America,2006,75.8
+North America,2005,75.3
+North America,2004,75.4
+North America,2003,75
+North America,2002,75
+North America,2001,75
+North America,2000,74.8
+Oceania,2015,69.4
+Oceania,2014,69.4
+Oceania,2013,69.2
+Oceania,2012,69
+Oceania,2011,68.9
+Oceania,2010,68.7
+Oceania,2009,68.5
+Oceania,2008,68.4
+Oceania,2007,68.2
+Oceania,2006,68
+Oceania,2005,67.9
+Oceania,2004,67.7
+Oceania,2003,67.5
+Oceania,2002,66.2
+Oceania,2001,67.2
+Oceania,2000,67
+Europe,2013,
+Asia,2015,68.8
+Asia,2014,68.4
+Asia,2013,68.1
+Asia,2012,67.8
+Asia,2011,67.3
+Asia,2010,66.3
+Asia,2009,66.9
+Asia,2008,67.4
+Asia,2007,65.9
+Asia,2006,65
+Asia,2005,64.5
+Asia,2004,64
+Asia,2003,64
+Asia,2002,63.8
+Asia,2001,63.2
+Asia,2000,62.8
+Europe,2015,76.1
+Europe,2014,75.9
+Europe,2013,75.8
+Europe,2012,75.6
+Europe,2011,75.4
+Europe,2010,75.3
+Europe,2009,75
+Europe,2008,74.6
+Europe,2007,74.2
+Europe,2006,73.8
+Europe,2005,73.6
+Europe,2004,73.5
+Europe,2003,73.5
+Europe,2002,73.4
+Europe,2001,73.3
+Europe,2000,73
+Africa,2015,74.3
+Africa,2014,74.1
+Africa,2013,73.9
+Africa,2012,73.6
+Africa,2011,73.3
+Africa,2010,72.8
+Africa,2009,72.3
+Africa,2008,71.8
+Africa,2007,71.4
+Africa,2006,71
+Africa,2005,77
+Africa,2004,72
+Africa,2003,69.9
+Africa,2002,69.5
+Africa,2001,69
+Africa,2000,68.6
+Africa,2015,57.6
+Africa,2014,56.7
+Africa,2013,55.3
+Africa,2012,54.8
+Africa,2011,54.3
+Africa,2010,54
+Africa,2009,53.8
+Africa,2008,53.2
+Africa,2007,52.1
+Africa,2006,51.2
+Africa,2005,58
+Africa,2004,54
+Africa,2003,51
+Africa,2002,49.8
+Africa,2001,49.5
+Africa,2000,49
+Asia,2015,66.6
+Asia,2014,66.4
+Asia,2013,66.2
+Asia,2012,65.9
+Asia,2011,65.6
+Asia,2010,65.4
+Asia,2009,65.2
+Asia,2008,59.2
+Asia,2007,64.5
+Asia,2006,64.2
+Asia,2005,63.9
+Asia,2004,63.5
+Asia,2003,63.2
+Asia,2002,62.8
+Asia,2001,62.5
+Asia,2000,62.1
+Africa,2015,65.8
+Africa,2014,65.9
+Africa,2013,66.1
+Africa,2012,65.8
+Africa,2011,64.3
+Africa,2010,63
+Africa,2009,62.4
+Africa,2008,61.7
+Africa,2007,60
+Africa,2006,57
+Africa,2005,55.1
+Africa,2004,54.7
+Africa,2003,55
+Africa,2002,55.7
+Africa,2001,56.5
+Africa,2000,57.4
+Oceania,2013,
+Asia,2015,69.2
+Asia,2014,69.6
+Asia,2013,69.3
+Asia,2012,68.9
+Asia,2011,68.4
+Asia,2010,68
+Asia,2009,67.5
+Asia,2008,67
+Asia,2007,66.6
+Asia,2006,66
+Asia,2005,65.4
+Asia,2004,64.7
+Asia,2003,64.3
+Asia,2002,63.1
+Asia,2001,63.2
+Asia,2000,62.5
+Europe,2015,81.9
+Europe,2014,81.7
+Europe,2013,81.4
+Europe,2012,81.1
+Europe,2011,81.1
+Europe,2010,88
+Europe,2009,86
+Europe,2008,83
+Europe,2007,82
+Europe,2006,79.8
+Europe,2005,79.4
+Europe,2004,79.2
+Europe,2003,78.7
+Europe,2002,78.4
+Europe,2001,78.3
+Europe,2000,78.1
+Oceania,2015,81.6
+Oceania,2014,81.5
+Oceania,2013,81.3
+Oceania,2012,81.1
+Oceania,2011,86
+Oceania,2010,89
+Oceania,2009,85
+Oceania,2008,81
+Oceania,2007,81
+Oceania,2006,79.9
+Oceania,2005,79.9
+Oceania,2004,79.2
+Oceania,2003,79.1
+Oceania,2002,78.7
+Oceania,2001,78.5
+Oceania,2000,78.6
+North America,2015,74.8
+North America,2014,74.5
+North America,2013,73.9
+North America,2012,73.9
+North America,2011,74.5
+North America,2010,73.2
+North America,2009,73.2
+North America,2008,72.5
+North America,2007,72.5
+North America,2006,73
+North America,2005,71.2
+North America,2004,71
+North America,2003,76
+North America,2002,75
+North America,2001,73
+North America,2000,73
+Africa,2015,61.8
+Africa,2014,61.4
+Africa,2013,69
+Africa,2012,63
+Africa,2011,59.4
+Africa,2010,58.2
+Africa,2009,57.1
+Africa,2008,56
+Africa,2007,55.2
+Africa,2006,54.5
+Africa,2005,53.7
+Africa,2004,52.9
+Africa,2003,52.1
+Africa,2002,51.4
+Africa,2001,56
+Africa,2000,50
+Africa,2015,54.5
+Africa,2014,53.6
+Africa,2013,53.2
+Africa,2012,52.7
+Africa,2011,52.3
+Africa,2010,52
+Africa,2009,51.6
+Africa,2008,59
+Africa,2007,55
+Africa,2006,49.8
+Africa,2005,49.2
+Africa,2004,48.5
+Africa,2003,48.1
+Africa,2002,47.7
+Africa,2001,47.4
+Africa,2000,47.1
+Oceania,2013,
+Europe,2015,81.8
+Europe,2014,81.6
+Europe,2013,81.5
+Europe,2012,81.3
+Europe,2011,81.1
+Europe,2010,81
+Europe,2009,89
+Europe,2008,86
+Europe,2007,85
+Europe,2006,84
+Europe,2005,81
+Europe,2004,79.8
+Europe,2003,79.4
+Europe,2002,78.9
+Europe,2001,78.8
+Europe,2000,78.5
+Asia,2015,76.6
+Asia,2014,76.4
+Asia,2013,76.2
+Asia,2012,76
+Asia,2011,75.8
+Asia,2010,75.6
+Asia,2009,75.4
+Asia,2008,75.2
+Asia,2007,74.9
+Asia,2006,74.7
+Asia,2005,74.3
+Asia,2004,74
+Asia,2003,73.6
+Asia,2002,73.3
+Asia,2001,72.9
+Asia,2000,72.6
+Asia,2015,66.4
+Asia,2014,66.2
+Asia,2013,66
+Asia,2012,65.7
+Asia,2011,65.5
+Asia,2010,65.1
+Asia,2009,64.8
+Asia,2008,64.6
+Asia,2007,64.4
+Asia,2006,64.2
+Asia,2005,62.9
+Asia,2004,63.7
+Asia,2003,63.5
+Asia,2002,63.2
+Asia,2001,63
+Asia,2000,62.8
+Oceania,2013,
+North America,2015,77.8
+North America,2014,77.6
+North America,2013,77.5
+North America,2012,77.2
+North America,2011,77.3
+North America,2010,76.5
+North America,2009,76.8
+North America,2008,76.5
+North America,2007,76.4
+North America,2006,76.2
+North America,2005,75.8
+North America,2004,75.8
+North America,2003,75.5
+North America,2002,75.7
+North America,2001,75.5
+North America,2000,75.7
+Oceania,2015,62.9
+Oceania,2014,62.7
+Oceania,2013,62.4
+Oceania,2012,62.2
+Oceania,2011,62
+Oceania,2010,61.8
+Oceania,2009,61.6
+Oceania,2008,61.4
+Oceania,2007,61.1
+Oceania,2006,68
+Oceania,2005,64
+Oceania,2004,59.9
+Oceania,2003,59.6
+Oceania,2002,59.3
+Oceania,2001,59.1
+Oceania,2000,58.9
+South America,2015,74
+South America,2014,73.9
+South America,2013,73.8
+South America,2012,73.6
+South America,2011,73.4
+South America,2010,73.2
+South America,2009,73
+South America,2008,72.7
+South America,2007,72.5
+South America,2006,72.3
+South America,2005,72.1
+South America,2004,71.9
+South America,2003,71.7
+South America,2002,71.5
+South America,2001,71.2
+South America,2000,79
+South America,2015,75.5
+South America,2014,75.3
+South America,2013,75.3
+South America,2012,74.9
+South America,2011,74.5
+South America,2010,73.7
+South America,2009,73.8
+South America,2008,73.9
+South America,2007,74
+South America,2006,74.2
+South America,2005,72.8
+South America,2004,72.2
+South America,2003,72.1
+South America,2002,72.6
+South America,2001,72.4
+South America,2000,71.4
+Asia,2015,68.5
+Asia,2014,68.4
+Asia,2013,68.1
+Asia,2012,68.1
+Asia,2011,68
+Asia,2010,67.9
+Asia,2009,68
+Asia,2008,67.5
+Asia,2007,67.5
+Asia,2006,67.3
+Asia,2005,67
+Asia,2004,67.3
+Asia,2003,67.2
+Asia,2002,66.8
+Asia,2001,66.8
+Asia,2000,66.8
+Europe,2015,77.5
+Europe,2014,77.3
+Europe,2013,77.1
+Europe,2012,76.8
+Europe,2011,76.7
+Europe,2010,76.3
+Europe,2009,75.7
+Europe,2008,75.5
+Europe,2007,75.3
+Europe,2006,75.2
+Europe,2005,75
+Europe,2004,74.9
+Europe,2003,74.7
+Europe,2002,74.5
+Europe,2001,74.2
+Europe,2000,73.7
+Europe,2015,81.1
+Europe,2014,89
+Europe,2013,86
+Europe,2012,83
+Europe,2011,82
+Europe,2010,79.6
+Europe,2009,79.3
+Europe,2008,79
+Europe,2007,78.7
+Europe,2006,78.5
+Europe,2005,77.7
+Europe,2004,78
+Europe,2003,77.3
+Europe,2002,77.2
+Europe,2001,76.9
+Europe,2000,76.6
+Asia,2015,78.2
+Asia,2014,78.1
+Asia,2013,77.9
+Asia,2012,77.8
+Asia,2011,77.5
+Asia,2010,77.3
+Asia,2009,77
+Asia,2008,76.8
+Asia,2007,76.7
+Asia,2006,76.6
+Asia,2005,76.6
+Asia,2004,76.6
+Asia,2003,76.5
+Asia,2002,76.4
+Asia,2001,76.3
+Asia,2000,76.2
+Asia,2015,82.3
+Asia,2014,82
+Asia,2013,81.7
+Asia,2012,81.2
+Asia,2011,81.1
+Asia,2010,87
+Asia,2009,86
+Asia,2008,83
+Asia,2007,79.8
+Asia,2006,79.4
+Asia,2005,78.7
+Asia,2004,78.2
+Asia,2003,77.6
+Asia,2002,77.1
+Asia,2001,76.7
+Asia,2000,76
+Europe,2015,72.1
+Europe,2014,71.8
+Europe,2013,71.7
+Europe,2012,79
+Europe,2011,77
+Europe,2010,68.8
+Europe,2009,69
+Europe,2008,68.9
+Europe,2007,68.3
+Europe,2006,68
+Europe,2005,67.3
+Europe,2004,68
+Europe,2003,67.6
+Europe,2002,67.5
+Europe,2001,67.6
+Europe,2000,67.1
+Europe,2015,75
+Europe,2014,74.8
+Europe,2013,74.6
+Europe,2012,74.4
+Europe,2011,74.3
+Europe,2010,73.4
+Europe,2009,73.1
+Europe,2008,73.1
+Europe,2007,72.9
+Europe,2006,72.5
+Europe,2005,71.9
+Europe,2004,71.7
+Europe,2003,71.1
+Europe,2002,77
+Europe,2001,78
+Europe,2000,77
+Europe / Asia,2015,75
+Europe / Asia,2014,73
+Europe / Asia,2013,70
+Europe / Asia,2012,69.6
+Europe / Asia,2011,69.4
+Europe / Asia,2010,68.4
+Europe / Asia,2009,68.2
+Europe / Asia,2008,67.5
+Europe / Asia,2007,67.3
+Europe / Asia,2006,66.4
+Europe / Asia,2005,65
+Europe / Asia,2004,64.9
+Europe / Asia,2003,64.6
+Europe / Asia,2002,64.8
+Europe / Asia,2001,65.1
+Europe / Asia,2000,65
+Africa,2015,66.1
+Africa,2014,65.7
+Africa,2013,65.2
+Africa,2012,64.6
+Africa,2011,63.8
+Africa,2010,62.8
+Africa,2009,61
+Africa,2008,68
+Africa,2007,59.6
+Africa,2006,57.6
+Africa,2005,55.3
+Africa,2004,53.4
+Africa,2003,52
+Africa,2002,57
+Africa,2001,48.6
+Africa,2000,48.3
+North America,2013,
+North America,2015,75.2
+North America,2014,75
+North America,2013,74.8
+North America,2012,74.7
+North America,2011,74.6
+North America,2010,74.2
+North America,2009,74.3
+North America,2008,74.1
+North America,2007,73.9
+North America,2006,73.5
+North America,2005,73.1
+North America,2004,72.6
+North America,2003,72.2
+North America,2002,72
+North America,2001,71.8
+North America,2000,71.6
+North America,2015,73.2
+North America,2014,73.1
+North America,2013,72.7
+North America,2012,72.8
+North America,2011,72.7
+North America,2010,72.5
+North America,2009,72.3
+North America,2008,72.1
+North America,2007,71.9
+North America,2006,71.7
+North America,2005,71.4
+North America,2004,71.2
+North America,2003,71
+North America,2002,79
+North America,2001,79
+North America,2000,79
+Oceania,2015,74
+Oceania,2014,73.8
+Oceania,2013,73.6
+Oceania,2012,73.2
+Oceania,2011,73
+Oceania,2010,72.6
+Oceania,2009,76
+Oceania,2008,72.5
+Oceania,2007,72.2
+Oceania,2006,72
+Oceania,2005,71.6
+Oceania,2004,71.4
+Oceania,2003,79
+Oceania,2002,76
+Oceania,2001,75
+Oceania,2000,72
+Europe,2013,
+Africa,2015,67.5
+Africa,2014,67.3
+Africa,2013,67.1
+Africa,2012,66.9
+Africa,2011,66.6
+Africa,2010,66.2
+Africa,2009,65.8
+Africa,2008,65.4
+Africa,2007,65.1
+Africa,2006,64.7
+Africa,2005,64.3
+Africa,2004,63.8
+Africa,2003,63.4
+Africa,2002,63.1
+Africa,2001,62.8
+Africa,2000,62.6
+Asia,2015,74.5
+Asia,2014,74.4
+Asia,2013,74.3
+Asia,2012,74.1
+Asia,2011,73.9
+Asia,2010,73.7
+Asia,2009,73.4
+Asia,2008,73.3
+Asia,2007,73.2
+Asia,2006,73.2
+Asia,2005,73.1
+Asia,2004,73.1
+Asia,2003,73
+Asia,2002,72.9
+Asia,2001,72.8
+Asia,2000,72.6
+Africa,2015,66.7
+Africa,2014,66.4
+Africa,2013,66
+Africa,2012,65.6
+Africa,2011,64.9
+Africa,2010,64.3
+Africa,2009,63.5
+Africa,2008,62.8
+Africa,2007,62.1
+Africa,2006,61.3
+Africa,2005,65
+Africa,2004,59.7
+Africa,2003,59
+Africa,2002,58.4
+Africa,2001,57.9
+Africa,2000,57.5
+Europe,2015,75.6
+Europe,2014,75.4
+Europe,2013,75.3
+Europe,2012,74.9
+Europe,2011,74.6
+Europe,2010,74.4
+Europe,2009,74.1
+Europe,2008,74
+Europe,2007,73.8
+Europe,2006,73.6
+Europe,2005,73
+Europe,2004,73
+Europe,2003,73
+Europe,2002,72.9
+Europe,2001,73.1
+Europe,2000,72.6
+Africa,2015,73.2
+Africa,2014,73
+Africa,2013,72.9
+Africa,2012,72.7
+Africa,2011,72.6
+Africa,2010,72.4
+Africa,2009,72.3
+Africa,2008,72.2
+Africa,2007,72.2
+Africa,2006,72.2
+Africa,2005,72.2
+Africa,2004,72.1
+Africa,2003,72.1
+Africa,2002,72.1
+Africa,2001,72
+Africa,2000,71.8
+Africa,2015,51
+Africa,2014,48.1
+Africa,2013,54
+Africa,2012,49.7
+Africa,2011,48.9
+Africa,2010,48.1
+Africa,2009,47.1
+Africa,2008,46.2
+Africa,2007,45.3
+Africa,2006,44.3
+Africa,2005,43.3
+Africa,2004,42.3
+Africa,2003,41.5
+Africa,2002,48
+Africa,2001,41
+Africa,2000,39
+Asia,2015,83.1
+Asia,2014,82.9
+Asia,2013,82.7
+Asia,2012,82.5
+Asia,2011,82.2
+Asia,2010,82
+Asia,2009,81.7
+Asia,2008,81.4
+Asia,2007,81.1
+Asia,2006,87
+Asia,2005,82
+Asia,2004,79.7
+Asia,2003,79.3
+Asia,2002,79
+Asia,2001,78.7
+Asia,2000,78.3
+Europe,2015,76.7
+Europe,2014,76.4
+Europe,2013,76.1
+Europe,2012,75.8
+Europe,2011,75.6
+Europe,2010,75.1
+Europe,2009,75
+Europe,2008,74.7
+Europe,2007,74.4
+Europe,2006,74.3
+Europe,2005,74
+Europe,2004,74.1
+Europe,2003,73.8
+Europe,2002,73.7
+Europe,2001,73.3
+Europe,2000,73
+Europe,2015,88
+Europe,2014,87
+Europe,2013,85
+Europe,2012,82
+Europe,2011,79.8
+Europe,2010,79.5
+Europe,2009,79.1
+Europe,2008,78.9
+Europe,2007,78.3
+Europe,2006,78.1
+Europe,2005,77.5
+Europe,2004,77.2
+Europe,2003,76.5
+Europe,2002,76.6
+Europe,2001,76.2
+Europe,2000,76
+Oceania,2015,69.2
+Oceania,2014,68.8
+Oceania,2013,68.8
+Oceania,2012,68.7
+Oceania,2011,68.5
+Oceania,2010,68.3
+Oceania,2009,68.1
+Oceania,2008,68
+Oceania,2007,67.6
+Oceania,2006,67.6
+Oceania,2005,67.4
+Oceania,2004,67.1
+Oceania,2003,66.8
+Oceania,2002,66.5
+Oceania,2001,66.2
+Oceania,2000,65.8
+Africa,2015,55
+Africa,2014,54.3
+Africa,2013,54.2
+Africa,2012,53.1
+Africa,2011,53.1
+Africa,2010,52.4
+Africa,2009,52.2
+Africa,2008,51.9
+Africa,2007,51.5
+Africa,2006,51.5
+Africa,2005,51.6
+Africa,2004,51.2
+Africa,2003,51.1
+Africa,2002,58
+Africa,2001,57
+Africa,2000,55
+Africa,2015,62.9
+Africa,2014,62
+Africa,2013,69
+Africa,2012,59.2
+Africa,2011,58.9
+Africa,2010,58
+Africa,2009,56.5
+Africa,2008,55.3
+Africa,2007,54.5
+Africa,2006,54
+Africa,2005,53.8
+Africa,2004,53.7
+Africa,2003,54
+Africa,2002,54.9
+Africa,2001,56
+Africa,2000,57.3
+Africa,2015,57.3
+Africa,2014,56.6
+Africa,2013,56.4
+Africa,2012,56
+Africa,2011,55.4
+Africa,2010,55
+Africa,2009,54.3
+Africa,2008,53.6
+Africa,2007,53.1
+Africa,2006,52.5
+Africa,2005,51.9
+Africa,2004,51.4
+Africa,2003,58
+Africa,2002,52
+Africa,2001,49.6
+Africa,2000,48.9
+Europe,2015,82.8
+Europe,2014,82.6
+Europe,2013,82.4
+Europe,2012,82
+Europe,2011,82.1
+Europe,2010,81.9
+Europe,2009,81.6
+Europe,2008,81.3
+Europe,2007,89
+Europe,2006,88
+Europe,2005,81
+Europe,2004,81
+Europe,2003,79.4
+Europe,2002,79.5
+Europe,2001,79.4
+Europe,2000,79.1
+Asia,2015,74.9
+Asia,2014,74.7
+Asia,2013,74.6
+Asia,2012,74.5
+Asia,2011,74.5
+Asia,2010,74.5
+Asia,2009,71.8
+Asia,2008,72.3
+Asia,2007,73.7
+Asia,2006,73.8
+Asia,2005,74.2
+Asia,2004,69.1
+Asia,2003,73.9
+Asia,2002,73.7
+Asia,2001,72.7
+Asia,2000,71.5
+Africa,2015,64.1
+Africa,2014,63.8
+Africa,2013,63.5
+Africa,2012,63.2
+Africa,2011,62.7
+Africa,2010,62.5
+Africa,2009,62
+Africa,2008,61.8
+Africa,2007,61.4
+Africa,2006,61
+Africa,2005,67
+Africa,2004,59.7
+Africa,2003,59.6
+Africa,2002,59.4
+Africa,2001,58.9
+Africa,2000,58.6
+South America,2015,71.6
+South America,2014,71.4
+South America,2013,71.2
+South America,2012,71.3
+South America,2011,76
+South America,2010,73
+South America,2009,70
+South America,2008,69.8
+South America,2007,69.5
+South America,2006,69.3
+South America,2005,68.9
+South America,2004,68.3
+South America,2003,68
+South America,2002,67.9
+South America,2001,67.7
+South America,2000,67.4
+Africa,2015,58.9
+Africa,2014,58.4
+Africa,2013,57.6
+Africa,2012,56.5
+Africa,2011,55
+Africa,2010,53.6
+Africa,2009,52.6
+Africa,2008,51.4
+Africa,2007,50
+Africa,2006,47.8
+Africa,2005,46
+Africa,2004,45.6
+Africa,2003,45.9
+Africa,2002,46.4
+Africa,2001,47.1
+Africa,2000,48.4
+Europe,2015,82.4
+Europe,2014,82.3
+Europe,2013,81.9
+Europe,2012,81.7
+Europe,2011,81.7
+Europe,2010,81.5
+Europe,2009,81.4
+Europe,2008,81.1
+Europe,2007,89
+Europe,2006,88
+Europe,2005,85
+Europe,2004,83
+Europe,2003,82
+Europe,2002,79.9
+Europe,2001,79.8
+Europe,2000,79.6
+Europe,2015,83.4
+Europe,2014,83.2
+Europe,2013,83
+Europe,2012,82.7
+Europe,2011,82.6
+Europe,2010,82.3
+Europe,2009,82.1
+Europe,2008,82
+Europe,2007,81.7
+Europe,2006,81.5
+Europe,2005,81.1
+Europe,2004,81
+Europe,2003,85
+Europe,2002,84
+Europe,2001,82
+Europe,2000,79.7
+Asia,2015,64.5
+Asia,2014,64.4
+Asia,2013,63.6
+Asia,2012,62.8
+Asia,2011,71.7
+Asia,2010,73.7
+Asia,2009,73.8
+Asia,2008,73.8
+Asia,2007,73.8
+Asia,2006,73.7
+Asia,2005,73.5
+Asia,2004,73.2
+Asia,2003,73
+Asia,2002,72.8
+Asia,2001,72.7
+Asia,2000,72.6
+Asia,2015,69.7
+Asia,2014,69.6
+Asia,2013,69.3
+Asia,2012,68.8
+Asia,2011,68.1
+Asia,2010,67.3
+Asia,2009,66.7
+Asia,2008,66.4
+Asia,2007,66.1
+Asia,2006,65.9
+Asia,2005,65.5
+Asia,2004,65.9
+Asia,2003,65.2
+Asia,2002,64.3
+Asia,2001,64
+Asia,2000,63.7
+Asia,2015,74.9
+Asia,2014,74.6
+Asia,2013,74.5
+Asia,2012,74.3
+Asia,2011,74.1
+Asia,2010,73.9
+Asia,2009,73.7
+Asia,2008,73.5
+Asia,2007,73.3
+Asia,2006,73
+Asia,2005,72.5
+Asia,2004,71.6
+Asia,2003,71.7
+Asia,2002,71.4
+Asia,2001,71.2
+Asia,2000,71.1
+Europe,2015,75.7
+Europe,2014,75.5
+Europe,2013,75.3
+Europe,2012,75.1
+Europe,2011,74.9
+Europe,2010,74.7
+Europe,2009,74.4
+Europe,2008,74.2
+Europe,2007,73.5
+Europe,2006,73.7
+Europe,2005,73.6
+Europe,2004,73.5
+Europe,2003,73.2
+Europe,2002,72.8
+Europe,2001,73.1
+Europe,2000,72.6
+Asia,2015,68.3
+Asia,2014,68
+Asia,2013,67.7
+Asia,2012,67.4
+Asia,2011,67.2
+Asia,2010,66.9
+Asia,2009,66.6
+Asia,2008,66.2
+Asia,2007,65.8
+Asia,2006,64.9
+Asia,2005,63.7
+Asia,2004,62.3
+Asia,2003,61
+Asia,2002,62
+Asia,2001,59.4
+Asia,2000,58.7
+Africa,2015,59.9
+Africa,2014,59.7
+Africa,2013,59.4
+Africa,2012,58.9
+Africa,2011,58.3
+Africa,2010,57.4
+Africa,2009,56.7
+Africa,2008,56.2
+Africa,2007,55.9
+Africa,2006,55.7
+Africa,2005,55
+Africa,2004,54.9
+Africa,2003,54.7
+Africa,2002,54.7
+Africa,2001,54.6
+Africa,2000,54.6
+Oceania,2015,73.5
+Oceania,2014,73.3
+Oceania,2013,73.2
+Oceania,2012,73
+Oceania,2011,72.9
+Oceania,2010,72.8
+Oceania,2009,72.5
+Oceania,2008,72.6
+Oceania,2007,72.5
+Oceania,2006,72.4
+Oceania,2005,72.3
+Oceania,2004,72.2
+Oceania,2003,72
+Oceania,2002,71.9
+Oceania,2001,71.8
+Oceania,2000,71.6
+South America,2015,71.2
+South America,2014,71.1
+South America,2013,71
+South America,2012,78
+South America,2011,76
+South America,2010,74
+South America,2009,71
+South America,2008,69.9
+South America,2007,69.7
+South America,2006,69.6
+South America,2005,69.5
+South America,2004,69.4
+South America,2003,69.3
+South America,2002,69.2
+South America,2001,69.1
+South America,2000,69.1
+Africa,2015,75.3
+Africa,2014,75.1
+Africa,2013,74.9
+Africa,2012,74.9
+Africa,2011,74.8
+Africa,2010,74.8
+Africa,2009,74.7
+Africa,2008,74.7
+Africa,2007,74.6
+Africa,2006,74.4
+Africa,2005,74.2
+Africa,2004,74
+Africa,2003,73.7
+Africa,2002,73.5
+Africa,2001,73.2
+Africa,2000,72.9
+Europe / Asia,2015,75.8
+Europe / Asia,2014,75.5
+Europe / Asia,2013,75.2
+Europe / Asia,2012,74.8
+Europe / Asia,2011,74.5
+Europe / Asia,2010,74.2
+Europe / Asia,2009,73.9
+Europe / Asia,2008,73.5
+Europe / Asia,2007,73.2
+Europe / Asia,2006,72.8
+Europe / Asia,2005,72.4
+Europe / Asia,2004,72
+Europe / Asia,2003,71.6
+Europe / Asia,2002,71.2
+Europe / Asia,2001,78
+Europe / Asia,2000,74
+Asia,2015,66.3
+Asia,2014,66
+Asia,2013,65.4
+Asia,2012,65.6
+Asia,2011,65.6
+Asia,2010,65.8
+Asia,2009,65.6
+Asia,2008,64.5
+Asia,2007,64.1
+Asia,2006,63.7
+Asia,2005,63.3
+Asia,2004,63.5
+Asia,2003,63.4
+Asia,2002,63.3
+Asia,2001,64
+Asia,2000,63.8
+Oceania,2013,
+Africa,2015,62.3
+Africa,2014,61.5
+Africa,2013,67
+Africa,2012,60
+Africa,2011,59.3
+Africa,2010,58.4
+Africa,2009,57.5
+Africa,2008,56.3
+Africa,2007,55.5
+Africa,2006,54.9
+Africa,2005,53.2
+Africa,2004,51.3
+Africa,2003,51
+Africa,2002,48.8
+Africa,2001,47.7
+Africa,2000,46.6
+Europe,2015,71.3
+Europe,2014,78
+Europe,2013,71
+Europe,2012,77
+Europe,2011,75
+Europe,2010,69.8
+Europe,2009,69.2
+Europe,2008,67.7
+Europe,2007,67.5
+Europe,2006,67.7
+Europe,2005,67
+Europe,2004,67.4
+Europe,2003,67.6
+Europe,2002,67.6
+Europe,2001,67.7
+Europe,2000,67.5
+Asia,2015,77.1
+Asia,2014,76.9
+Asia,2013,76.7
+Asia,2012,76.5
+Asia,2011,76.3
+Asia,2010,76.2
+Asia,2009,76
+Asia,2008,75.8
+Asia,2007,75.6
+Asia,2006,75.4
+Asia,2005,75.3
+Asia,2004,75.1
+Asia,2003,74.9
+Asia,2002,74.7
+Asia,2001,74.5
+Asia,2000,74.2
+Europe,2015,81.2
+Europe,2014,81
+Europe,2013,87
+Europe,2012,86
+Europe,2011,86
+Europe,2010,82
+Europe,2009,81
+Europe,2008,79.6
+Europe,2007,79.5
+Europe,2006,79.3
+Europe,2005,79
+Europe,2004,78.8
+Europe,2003,78.3
+Europe,2002,78.2
+Europe,2001,78
+Europe,2000,77.8
+Africa,2015,61.8
+Africa,2014,67
+Africa,2013,59.7
+Africa,2012,58.6
+Africa,2011,58.3
+Africa,2010,57.5
+Africa,2009,56.9
+Africa,2008,56.2
+Africa,2007,54.5
+Africa,2006,53.1
+Africa,2005,52.2
+Africa,2004,51.5
+Africa,2003,58
+Africa,2002,52
+Africa,2001,49.6
+Africa,2000,49.2
+North America,2015,79.3
+North America,2014,79.1
+North America,2013,78.9
+North America,2012,78.8
+North America,2011,78.7
+North America,2010,78.7
+North America,2009,78.5
+North America,2008,78.2
+North America,2007,78.1
+North America,2006,77.8
+North America,2005,77.5
+North America,2004,77.5
+North America,2003,77.2
+North America,2002,77
+North America,2001,76.9
+North America,2000,76.8
+South America,2015,77
+South America,2014,76.8
+South America,2013,76.8
+South America,2012,76.5
+South America,2011,77
+South America,2010,76.3
+South America,2009,76.6
+South America,2008,76.4
+South America,2007,75.4
+South America,2006,76.2
+South America,2005,75.7
+South America,2004,75.4
+South America,2003,75.4
+South America,2002,75.4
+South America,2001,75.2
+South America,2000,75.1
+Asia,2015,69.4
+Asia,2014,69.2
+Asia,2013,69.1
+Asia,2012,68.8
+Asia,2011,68.5
+Asia,2010,68.3
+Asia,2009,68
+Asia,2008,67.9
+Asia,2007,67.8
+Asia,2006,67.6
+Asia,2005,67.3
+Asia,2004,67.8
+Asia,2003,67.2
+Asia,2002,67.1
+Asia,2001,67.4
+Asia,2000,67.1
+Oceania,2015,72
+Oceania,2014,71.7
+Oceania,2013,71.6
+Oceania,2012,71.4
+Oceania,2011,71.2
+Oceania,2010,71
+Oceania,2009,78
+Oceania,2008,75
+Oceania,2007,73
+Oceania,2006,71
+Oceania,2005,69.9
+Oceania,2004,69.6
+Oceania,2003,69.4
+Oceania,2002,69.3
+Oceania,2001,69.1
+Oceania,2000,69
+South America,2015,74.1
+South America,2014,73.9
+South America,2013,73.8
+South America,2012,73.7
+South America,2011,73.8
+South America,2010,73.7
+South America,2009,73.6
+South America,2008,73.2
+South America,2007,73.4
+South America,2006,73.6
+South America,2005,73.6
+South America,2004,73.3
+South America,2003,72.4
+South America,2002,73.1
+South America,2001,72.5
+South America,2000,72.5
+Asia,2015,76
+Asia,2014,75.9
+Asia,2013,75.7
+Asia,2012,75.6
+Asia,2011,75.4
+Asia,2010,75.2
+Asia,2009,75
+Asia,2008,74.9
+Asia,2007,74.7
+Asia,2006,74.6
+Asia,2005,74.4
+Asia,2004,74.2
+Asia,2003,74
+Asia,2002,73.8
+Asia,2001,73.6
+Asia,2000,73.4
+Asia,2015,65.7
+Asia,2014,65.4
+Asia,2013,65.4
+Asia,2012,64.7
+Asia,2011,64.6
+Asia,2010,64.4
+Asia,2009,64.1
+Asia,2008,63.8
+Asia,2007,63.4
+Asia,2006,63
+Asia,2005,62.6
+Asia,2004,62.2
+Asia,2003,61.9
+Asia,2002,61.5
+Asia,2001,61.1
+Asia,2000,68
+Africa,2015,61.8
+Africa,2014,61.1
+Africa,2013,63
+Africa,2012,59.2
+Africa,2011,58.2
+Africa,2010,58
+Africa,2009,57.4
+Africa,2008,55.7
+Africa,2007,52.6
+Africa,2006,58
+Africa,2005,49.3
+Africa,2004,47.9
+Africa,2003,46.4
+Africa,2002,45.5
+Africa,2001,44.6
+Africa,2000,43.8
+Africa,2015,67
+Africa,2014,59.2
+Africa,2013,58
+Africa,2012,56.6
+Africa,2011,54.9
+Africa,2010,52.4
+Africa,2009,50
+Africa,2008,48.2
+Africa,2007,46.6
+Africa,2006,45.4
+Africa,2005,44.6
+Africa,2004,44.3
+Africa,2003,44.5
+Africa,2002,44.8
+Africa,2001,45.3
+Africa,2000,46
